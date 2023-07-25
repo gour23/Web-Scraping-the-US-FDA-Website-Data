@@ -1,6 +1,8 @@
 # Web-Scraping-the-US-FDA-Website-Data
 This Project is Created using Python and it's libraries for scraping the data from the US FDA website. <br>
 for working with the project there should be Python 3 installed on the machine
+<br>
+<br>
 When the user starts working with the projects , first of all the main page pops up to the screen . Shown in the image(1).There are mutiple functionalities in the main page. Let us Suppose a user have a product name and he wants to download the details of that product. So the user will have to enter the the product name to the entry field. Now there are two buttons we see on the page , first one is Download Data Button and the second one is View Data Buttonk
 ![Screenshot 1](https://github.com/gour23/Web-Scraping-the-US-FDA-Website-Data/assets/91954903/768fdabb-744a-45e5-8b42-b1611dfa1596)
 
